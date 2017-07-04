@@ -1,0 +1,17 @@
+{
+  "name": "angular2-skeleton",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Alexander <mburukungu@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/AlexanderMK/cookie-recipe",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
